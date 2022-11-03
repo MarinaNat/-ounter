@@ -1,4 +1,7 @@
 # Счётчик
+Ссылка на gh-pages
+
+https://marinanat.github.io/counter/
 
 ## Описание проекта
 
@@ -14,7 +17,7 @@
 ## Установка и запуск проекта:
 Клонировать репозиторий:
 
-    git clone https://github.com/MarinaNat/Counter.git
+    git clone https://github.com/MarinaNat/counter.git
 
 Установить зависимости:
 
