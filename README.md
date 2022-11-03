@@ -14,7 +14,7 @@
 ## Установка и запуск проекта:
 Клонировать репозиторий:
 
-    git clone https://github.com/MarinaNat/movies-explorer-frontend.git
+    git clone https://github.com/MarinaNat/Counter.git
 
 Установить зависимости:
 
